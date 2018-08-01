@@ -1,0 +1,133 @@
+Datum :                 25/11/2016 16:42:29                                                                     Pag : 1 / 2
+
+                                                     MAANDPLANNING VOOR
+
+                                                     DECKX STIJN , 730771
+
+Afdeling :              MUS                                                                                     PP155
+
+Periode :               DECEMBER    -       2016                                                                BE0677658P
+
+                                                                   IVR   Omschrijving
+
+Dag      Uren           Aantal  Dc  Sched.   Coord.  Klant         Code  Vestiging        Positie               Opdracht
+
+01 DO    7:00 - 19:00   12:00   PP  KOBLNZ   MUSZIN  U.S. EMBASSY  2314  ZINNER           E-3 EMB/EMR - Access  Toegangscontrole
+
+                                                                         REGENTLAAN 27, 1000 BRUSSEL
+
+02 VR    7:00 - 19:00   12:00   PP  LONDON   MUSZIN  U.S. EMBASSY  2314  ZINNER           E-2 Chancery Ducale   Terreinbewaking
+
+                                                                         REGENTLAAN 27, 1000 BRUSSEL
+
+03 ZA    -
+
+04 ZO    -
+
+05 MA    7:00 - 19:00   12:00   PP  KOBLNZ   MUSZIN  U.S. EMBASSY  2314  ZINNER           E-3 EMB/EMR - Access  Toegangscontrole
+
+                                                                         REGENTLAAN 27, 1000 BRUSSEL
+
+06 DI    -
+
+07 WO    9:00 - 10:00   1:00    VK           MUSRG                       Vergadering met
+
+                                                                         de klant
+
+08 DO    7:30 - 18:00   10:50   PP  METZ     MUSAC   U.S. EMBASSY  2314  ZINNER           C-2 Chancery - Stati  Toegangscontrole
+
+                                                                         REGENTLAAN 27, 1000 BRUSSEL
+
+09 VR    7:00 - 19:00   12:00   PP  ALICAN   MUSAC   U.S. EMBASSY  2314  ZINNER           U-2 USEU - Static Se  Toegangscontrole
+
+                                                                         REGENTLAAN 27, 1000 BRUSSEL
+
+10 ZA    -
+
+11 ZO    10:00 - 16:00  6:00    RG  RELWK    MUSRE   U.S. EMBASSY  2314  ZINNER           Relief 1 Zinner       Terreinbewaking
+
+                                                                         REGENTLAAN 27, 1000 BRUSSEL
+
+12 MA    7:00 - 19:00   12:00   PP  KOBLNZ   MUSZIN  U.S. EMBASSY  2314  ZINNER           E-3 EMB/EMR - Access  Toegangscontrole
+
+                                                                         REGENTLAAN 27, 1000 BRUSSEL
+
+13 DI    8:00 - 18:00   10:00   PP  COLMAR   MUSAC   U.S. EMBASSY  2314  ZINNER           E/X-RAY Embassy - Ac  X-ray
+
+                                                                         REGENTLAAN 27, 1000 BRUSSEL
+
+13 DI    18:00 - 20:00  2:00    PP  HAMBU2   MUSZIN  U.S. EMBASSY  2314  ZINNER           J-2 Jas Outside - St  Terreinbewaking
+
+                                                                         REGENTLAAN 27, 1000 BRUSSEL
+
+14 WO    -
+
+15 DO    -
+
+16 VR    7:00 - 17:30   10:50   PP  NAPOLI   MUSAC   U.S. EMBASSY  2314  ZINNER           J/X-RAY Cons/JAS - A  Toegangscontrole
+
+                                                                         REGENTLAAN 27, 1000 BRUSSEL
+
+17 ZA    7:00 - 19:00   12:00   PP  KOBLNZ   MUSZIN  U.S. EMBASSY  2314  ZINNER           E-3 EMB/EMR - Access  Toegangscontrole
+
+                                                                         REGENTLAAN 27, 1000 BRUSSEL
+
+18 ZO    7:00 - 19:00   12:00   PP  KOBLNZ   MUSZIN  U.S. EMBASSY  2314  ZINNER           E-3 EMB/EMR - Access  Toegangscontrole
+
+                                                                         REGENTLAAN 27, 1000 BRUSSEL
+
+19 MA    7:00 - 19:00   12:00   PP  KOBLNZ   MUSZIN  U.S. EMBASSY  2314  ZINNER           E-3 EMB/EMR - Access  Toegangscontrole
+
+                                                                         REGENTLAAN 27, 1000 BRUSSEL
+
+20 DI    -
+
+21 WO    -
+
+22 DO    7:30 - 12:00   4:50    PP  LEIPZG   MUSAC   U.S. EMBASSY  2314  ZINNER           U-1 USEU - Static Se  Toegangscontrole
+
+                                                                         REGENTLAAN 27, 1000 BRUSSEL
+
+22 DO    12:00 - 16:00  4:00    RG  LEIPRE   MUSAC   U.S. EMBASSY  2314  ZINNER           U-1 USEU - Static Se  Toegangscontrole
+
+                                                                         REGENTLAAN 27, 1000 BRUSSEL
+
+23 VR    -
+
+24 ZA    -
+
+25 ZO    -
+
+26 MA    -
+
+27 DI    -
+
+28 WO    -
+
+         * Totaal *     176:50
+Datum :                25/11/2016 16:42:29                                                                      Pag : 2 / 2
+
+                                                    MAANDPLANNING VOOR
+
+                                                    DECKX STIJN , 730771
+
+Afdeling :             MUS                                                                                      PP155
+
+Periode :              DECEMBER    -       2016                                                                 BE0677658P
+
+                                                                  IVR    Omschrijving
+
+Dag      Uren          Aantal  Dc  Sched.   Coord.  Klant         Code   Vestiging        Positie               Opdracht
+
+29 DO    7:00 - 19:00  12:00   NP           MUSRG                        Niet productief
+
+30 VR    9:00 - 17:00  8:00    PP  ANCONA   MUSAC   U.S. EMBASSY  2314   ZINNER           R-4 FAA - Access Scr  Toegangscontrole
+
+                                                                         REGENTLAAN 27, 1000 BRUSSEL
+
+31 ZA    6:00 - 18:00  12:00   PP  ATHEND   MUSDM   U.S. EMBASSY  12745  MIRTY            U/E-1 USEU/EMR - Acc  Toegangscontrole
+
+                                                                         AVENUE DES MYRTILLES 55, 1180 UCCLE
+
+         * Totaal *    176:50
+
